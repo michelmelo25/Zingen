@@ -20,6 +20,7 @@
   --brand-color-primary: #f7b733;
   --brand-color-secondary: #fc4a1a;
   --brand-gradient: linear-gradient(
+    90deg,
     var(--brand-color-secondary),
     var(--brand-color-primary)
   );
