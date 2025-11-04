@@ -1,8 +1,8 @@
-# 🎤 Zingen - Landing Page Responsiva (Estudo de CSS)
+# 🎤 Zingen - Landing Page Responsiva
 
 ## 🔗 Índice
 
-[✨ Visão Geral do Projeto](#visão-geral-do-projeto) | [🖼️ Screenshot do Projeto](#screenshot-do-projeto) | [🎯 Objetivos de Aprendizado](#objetivos-de-aprendizado) | [🚀 Tecnologias Utilizadas](#tecnologias-utilizadas) | [🛠️ Estrutura do Projeto](#estrutura-do-projeto) | [💡 Como Visualizar o Projeto](#como-visualizar-o-projeto)
+[✨ Visão Geral do Projeto](#-visão-geral-do-projeto) | [🖼️ Screenshot do Projeto](#-screenshot-do-projeto) | [🎯 Objetivos de Aprendizado](#-objetivos-de-aprendizado) | [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas) | [🛠️ Estrutura do Projeto](#-estrutura-do-projeto) | [💡 Como Visualizar o Projeto](#-como-visualizar-o-projeto)
 
 ---
 
